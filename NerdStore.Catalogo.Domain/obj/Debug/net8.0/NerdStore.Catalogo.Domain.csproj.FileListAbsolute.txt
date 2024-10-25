@@ -1,0 +1,15 @@
+C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Catalogo.Domain\bin\Debug\net8.0\NerdStore.Catalogo.Domain.deps.json
+C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Catalogo.Domain\bin\Debug\net8.0\NerdStore.Catalogo.Domain.dll
+C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Catalogo.Domain\bin\Debug\net8.0\NerdStore.Catalogo.Domain.pdb
+C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Catalogo.Domain\bin\Debug\net8.0\NerdStore.Core.dll
+C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Catalogo.Domain\bin\Debug\net8.0\NerdStore.Core.pdb
+C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Catalogo.Domain\obj\Debug\net8.0\NerdStore.Catalogo.Domain.csproj.AssemblyReference.cache
+C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Catalogo.Domain\obj\Debug\net8.0\NerdStore.Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Catalogo.Domain\obj\Debug\net8.0\NerdStore.Catalogo.Domain.AssemblyInfoInputs.cache
+C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Catalogo.Domain\obj\Debug\net8.0\NerdStore.Catalogo.Domain.AssemblyInfo.cs
+C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Catalogo.Domain\obj\Debug\net8.0\NerdStore.Catalogo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Catalogo.Domain\obj\Debug\net8.0\NerdStor.C9CF3017.Up2Date
+C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Catalogo.Domain\obj\Debug\net8.0\NerdStore.Catalogo.Domain.dll
+C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Catalogo.Domain\obj\Debug\net8.0\refint\NerdStore.Catalogo.Domain.dll
+C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Catalogo.Domain\obj\Debug\net8.0\NerdStore.Catalogo.Domain.pdb
+C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Catalogo.Domain\obj\Debug\net8.0\ref\NerdStore.Catalogo.Domain.dll
