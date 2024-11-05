@@ -1,7 +1,6 @@
-﻿using NerdStore.Core;
-using NerdStore.Core.DomainObjects;
+﻿using NerdStore.Core.DomainObjects;
 
-namespace NerdStore.Catalogo.Domain;
+namespace NerdStore.Catalogo.Domain.Entities.ValuesObjects;
 
 //value object
 public class Dimensoes : ValueObject

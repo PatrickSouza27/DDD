@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NerdStore.Catalogo.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f82003d8d889a67624be8eab8fa380bd740bab56")]
 [assembly: System.Reflection.AssemblyProductAttribute("NerdStore.Catalogo.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NerdStore.Catalogo.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

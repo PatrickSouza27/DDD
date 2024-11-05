@@ -9,3 +9,5 @@ C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\Mod
 C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Core\obj\Debug\net8.0\refint\NerdStore.Core.dll
 C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Core\obj\Debug\net8.0\NerdStore.Core.pdb
 C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Core\obj\Debug\net8.0\ref\NerdStore.Core.dll
+C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Core\obj\Debug\net8.0\NerdStore.Core.csproj.AssemblyReference.cache
+C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Core\obj\Debug\net8.0\NerdStore.Core.sourcelink.json

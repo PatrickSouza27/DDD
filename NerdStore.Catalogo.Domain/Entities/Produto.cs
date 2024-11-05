@@ -1,7 +1,8 @@
-﻿using NerdStore.Core;
+﻿using System;
+using NerdStore.Catalogo.Domain.Entities.ValuesObjects;
 using NerdStore.Core.DomainObjects;
 
-namespace NerdStore.Catalogo.Domain;
+namespace NerdStore.Catalogo.Domain.Entities;
 
 public class Produto : Entity, IAggregateRoot
 {
@@ -14,7 +15,6 @@ public class Produto : Entity, IAggregateRoot
     public int QuantidadeEstoque { get; private set; }
     public Guid CategoriaId { get; private set; }
     public Categoria Categoria { get; private set; }
-
     public Dimensoes Dimensoes { get; set; }
 
     protected Produto() { }

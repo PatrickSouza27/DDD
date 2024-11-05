@@ -1,4 +1,5 @@
 ﻿using MediatR;
+using NerdStore.Core.Commands;
 using NerdStore.Core.Handlers.Interfaces;
 using NerdStore.Core.Messages;
 
@@ -15,5 +16,10 @@ public class MediatrHandler : IMediatrHandler
     public async Task PublicarEvento<T>(T evento) where T : Event
     {
         await _mediator.Publish(evento);
+    }
+
+    public Task<bool> EnviarComando<T>(T comando) where T : Command
+    {
+        return _mediator.Send(comando);
     }
 }

@@ -13,3 +13,4 @@ C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\Mod
 C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Catalogo.Domain\obj\Debug\net8.0\refint\NerdStore.Catalogo.Domain.dll
 C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Catalogo.Domain\obj\Debug\net8.0\NerdStore.Catalogo.Domain.pdb
 C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Catalogo.Domain\obj\Debug\net8.0\ref\NerdStore.Catalogo.Domain.dll
+C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Catalogo.Domain\obj\Debug\net8.0\NerdStore.Catalogo.Domain.sourcelink.json

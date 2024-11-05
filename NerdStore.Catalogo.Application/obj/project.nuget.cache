@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "bZaV6J1EiD8=",
+  "dgSpecHash": "OgMSSkncvfs=",
   "success": true,
   "projectFilePath": "C:\\Users\\PatrickSouza\\Desktop\\Courses\\Desenvolvedor.io\\ArquiteturaDeSoftware\\ModelandoDominiosRicos\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\PatrickSouza\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\PatrickSouza\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",
+    "C:\\Users\\PatrickSouza\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\PatrickSouza\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\PatrickSouza\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,4 +1,5 @@
-﻿using NerdStore.Core.Data;
+﻿using NerdStore.Catalogo.Domain.Entities;
+using NerdStore.Core.Data;
 
 namespace NerdStore.Catalogo.Domain;
 

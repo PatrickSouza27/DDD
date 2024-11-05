@@ -47,6 +47,6 @@ public class EstoqueService : IEstoqueService
 
     public void Dispose()
     {
-        throw new NotImplementedException();
+        _produtoRepository?.Dispose();
     }
 }

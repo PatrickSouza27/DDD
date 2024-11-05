@@ -1,12 +1,33 @@
-﻿namespace NerdStore.Core.DomainObjects;
+﻿using NerdStore.Core.Messages;
+
+namespace NerdStore.Core.DomainObjects;
 
 public abstract class Entity
 {
+    
+    private List<Event> _notifications;
     public Guid Id { get; set; }
-
+    public IReadOnlyCollection<Event> Notifications => _notifications.AsReadOnly();
+    
     protected Entity()
     {
         Id = Guid.NewGuid();
+    }
+    
+    public void AdicionarEvento(Event evento)
+    {
+        _notifications = _notifications ?? new List<Event>();
+        _notifications.Add(evento);
+    }
+    
+    public void RemoverEvento(Event evento)
+    {
+        _notifications?.Remove(evento);
+    }
+    
+    public void LimparEventos()
+    {
+        _notifications?.Clear();
     }
 
     public override bool Equals(object? obj)
@@ -17,7 +38,7 @@ public abstract class Entity
         return !ReferenceEquals(null, compareTo) && Id.Equals(compareTo.Id);
     }
 
-    public static bool operator ==(Entity a, Entity b)
+    public static bool operator ==(Entity? a, Entity? b)
     {
         if(ReferenceEquals(a, null) && ReferenceEquals(b, null)) return true;
         if(ReferenceEquals(a, null) || ReferenceEquals(b, null)) return false;
@@ -25,7 +46,7 @@ public abstract class Entity
         return a.Equals(b);
     }
 
-    public static bool operator !=(Entity a, Entity b)
+    public static bool operator !=(Entity? a, Entity? b)
     {
         return !(a == b);
     }
@@ -39,4 +60,6 @@ public abstract class Entity
     {
         return $"{GetType().Name} [Id={Id}]";
     }
+    
+    public virtual bool EhValido() => true;
 }

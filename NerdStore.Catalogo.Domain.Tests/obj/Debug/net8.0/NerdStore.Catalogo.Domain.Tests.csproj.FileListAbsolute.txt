@@ -114,3 +114,6 @@ C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\Mod
 C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Catalogo.Domain.Tests\bin\Debug\net8.0\NerdStore.Core.dll
 C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Catalogo.Domain.Tests\bin\Debug\net8.0\NerdStore.Catalogo.Domain.pdb
 C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Catalogo.Domain.Tests\bin\Debug\net8.0\NerdStore.Core.pdb
+C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Catalogo.Domain.Tests\bin\Debug\net8.0\MediatR.dll
+C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Catalogo.Domain.Tests\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\PatrickSouza\Desktop\Courses\Desenvolvedor.io\ArquiteturaDeSoftware\ModelandoDominiosRicos\NerdStore.Catalogo.Domain.Tests\obj\Debug\net8.0\NerdStore.Catalogo.Domain.Tests.sourcelink.json

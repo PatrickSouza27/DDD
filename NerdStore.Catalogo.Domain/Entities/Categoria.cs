@@ -1,4 +1,6 @@
-﻿using NerdStore.Core;
+﻿using System.Collections.Generic;
+using NerdStore.Catalogo.Domain.Entities;
+using NerdStore.Core;
 using NerdStore.Core.DomainObjects;
 
 namespace NerdStore.Catalogo.Domain;

@@ -1,3 +1,5 @@
+using NerdStore.Catalogo.Domain.Entities;
+using NerdStore.Catalogo.Domain.Entities.ValuesObjects;
 using NerdStore.Core;
 using NerdStore.Core.DomainObjects;
 

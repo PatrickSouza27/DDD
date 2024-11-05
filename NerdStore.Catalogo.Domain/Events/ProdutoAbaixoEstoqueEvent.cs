@@ -6,8 +6,10 @@ public class ProdutoAbaixoEstoqueEvent : DomainEvent
 {
     public int QuantidadeRestante { get; private set; }
     
-    public ProdutoAbaixoEstoqueEvent(Guid aggregateId, int quantidadeRestante) : base(aggregateId)
+    public ProdutoAbaixoEstoqueEvent(Guid aggregateId, int qtdRestante) : base(aggregateId)
     {
-        QuantidadeRestante = quantidadeRestante;
+        QuantidadeRestante = qtdRestante;
     }
+    
+    
 }
