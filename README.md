@@ -53,3 +53,12 @@ docker start <nome-do-conteiner>
 docker inspect <nome-do-conteiner>
 docker restart <nome-do-conteiner>
 ```
+
+
+### AutoMapping
+```bash
+https://doc.mapeditor.org/en/stable/manual/automapping/
+```
+
+
+
